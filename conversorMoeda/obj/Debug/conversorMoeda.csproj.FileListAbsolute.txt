@@ -1,0 +1,16 @@
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\bin\Debug\conversorMoeda.exe.config
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\bin\Debug\conversorMoeda.exe
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\bin\Debug\conversorMoeda.pdb
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\bin\Debug\zu-ZA\conversorMoeda.resources.dll
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\bin\Debug\zu\conversorMoeda.resources.dll
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.Form1.resources
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.Properties.Resources.resources
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.Form1.zu-ZA.resources
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.Form1.zu.resources
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.csproj.GenerateResource.cache
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\zu-ZA\conversorMoeda.resources.dll
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\zu\conversorMoeda.resources.dll
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.exe
+C:\Users\guilh\Desktop\PROJETOS\conversorMoeda\obj\Debug\conversorMoeda.pdb

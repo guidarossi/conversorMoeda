@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversorMoeda", "conversorMoeda.csproj", "{6565D9DE-5F88-4C8E-B5C4-C7A6DF57FC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6565D9DE-5F88-4C8E-B5C4-C7A6DF57FC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6565D9DE-5F88-4C8E-B5C4-C7A6DF57FC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6565D9DE-5F88-4C8E-B5C4-C7A6DF57FC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6565D9DE-5F88-4C8E-B5C4-C7A6DF57FC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98DFD40-C9FF-442F-8811-D04334C129CA}
+	EndGlobalSection
+EndGlobal
